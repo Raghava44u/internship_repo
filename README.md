@@ -181,7 +181,7 @@ Response: Disease:"""
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/disease-prediction-gpt2.git
+git clone https://github.com/Raghava44u/internship_repo.git
 cd disease-prediction-gpt2
 ```
 
